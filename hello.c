@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include <cs50.h>
 #include <stdlib.h>
 
-int main(int argc, string argv[])
+int main(int argc, char **argv)
 {
     printf("hello world! - %d\n", argc);
     for (int i = 0; i < argc; i++)
