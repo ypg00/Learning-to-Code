@@ -8,4 +8,4 @@ int main(int argc, char **argv)
     {
         printf("arg %d - %s, %i, %f\n", i, argv[i], atoi(argv[i]), atof(argv[i]));
     }
-}
+}br
